@@ -5,8 +5,8 @@ Your friend is an anthropology major who is studying roman history. They have ne
 
 Most people learn about roman numerals at a young age. If you look at many analog clocks, you will find that many of them actually use roman numerals for the numbers. Roman numerals do not just stop at 12 though, they actually can represent numbers as high as 4999 using their most basic form. The challenge, is to create a program that will allow you to convert decimal (base-10) numbers to roman numerals as well as roman numerals to decimal numbers. The history of roman numerals is a bit debated because of their varied use throughout history and a seeming lack of a standard definition. Some rules are well accepted and some less-so. Here are the guidelines for your implementation:
 
-*I* | *V* | *X* | *L* | *C* | *D* | *M*
-- | - | - | - | - | - | -
+I | V | X | L | C | D | M
+-- | -- | -- | -- | -- | -- | --
 1 | 5 | 10 | 50 | 100 | 500 | 1000
 
 ## Rules
