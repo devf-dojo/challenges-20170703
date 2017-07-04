@@ -14,8 +14,10 @@ To tackle this you'll probably want to consider using a finite state machine and
 ## Example Input
 
 You'll be given a list of patterns, one per line. Example:
+```
 a+b
 abc*d
+```
 
 ## Example Output
 
