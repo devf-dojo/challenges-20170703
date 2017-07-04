@@ -25,13 +25,10 @@ Only one smaller value can be subtracted from a following larger value. (e.g. 'I
 
 ## Examples
 
-XII = 10 + 1 + 1 = 12
-
-MDCCLXXVI = 1000 + 500 + 100 + 100 + 50 + 10 + 10 + 5 + 1 = 1776
-
-IX = "1 from 10" = 10 - 1 = 9
-
-XCIV = "10 from 100" + "1 from 5" = (100 - 10) + (5 - 1) = 90 + 4 = 94
+* XII = 10 + 1 + 1 = 12
+* MDCCLXXVI = 1000 + 500 + 100 + 100 + 50 + 10 + 10 + 5 + 1 = 1776
+* IX = "1 from 10" = 10 - 1 = 9
+* XCIV = "10 from 100" + "1 from 5" = (100 - 10) + (5 - 1) = 90 + 4 = 94
 
 ## Inputs & Outputs
 
@@ -47,11 +44,9 @@ The last roman numeral digit inside a set of parenthesis can not be an "I". Ther
 
 ## Examples
 
-(V)M = 5*1000 + 1000 = 6000
-
-(X)MMCCCXLV = 10*1000 + 1000 + 1000 + 100 + 100 + 100 + (50 - 10) + 5 = 10000 + 2000 + 300 + 40 + 5 = 12345
-
-((XV)M)DCC = ((10 + 5) * 1000 + 1000) * 1000 + 500 + 100 + 100 = (15000 + 1000) * 1000 + 1700 = 16000000 + 1700 = 16001700
+* (V)M = 5*1000 + 1000 = 6000
+* (X)MMCCCXLV = 10*1000 + 1000 + 1000 + 100 + 100 + 100 + (50 - 10) + 5 = 10000 + 2000 + 300 + 40 + 5 = 12345
+* ((XV)M)DCC = ((10 + 5) * 1000 + 1000) * 1000 + 500 + 100 + 100 = (15000 + 1000) * 1000 + 1700 = 16000000 + 1700 = 16001700
 
 ## Hints
 
@@ -60,56 +55,32 @@ Sample Data
 
 ### Basic
 
-IV = 4
-
-XXXIV = 34
-
-CCLXVII = 267
-
-DCCLXIV = 764
-
-CMLXXXVII = 987
-
-MCMLXXXIII = 1983
-
-MMXIV = 2014
-
-MMMM = 4000
-
-MMMMCMXCIX = 4999
+* IV = 4
+* XXXIV = 34
+* CCLXVII = 267
+* DCCLXIV = 764
+* CMLXXXVII = 987
+* MCMLXXXIII = 1983
+* MMXIV = 2014
+* MMMM = 4000
+* MMMMCMXCIX = 4999
 
 ### Challenge
 
-(V) = 5000
-
-(V)CDLXXVIII = 5478
-
-(V)M = 6000
-
-(IX) = 9000
-
-(X)M = 11000
-
-(X)MM = 12000
-
-(X)MMCCCXLV = 12345
-
-(CCCX)MMMMCLIX = 314159
-
-(DLXXV)MMMCCLXVII = 578267
-
-(MMMCCXV)CDLXVIII = 3215468
-
-(MMMMCCX)MMMMCDLXVIII = 4214468
-
-(MMMMCCXV)CDLXVIII = 4215468
-
-(MMMMCCXV)MMMCDLXVIII = 4218468
-
-(MMMMCCXIX)CDLXVIII = 4219468
-
-((XV)MDCCLXXV)MMCCXVI = 16777216
-
-((CCCX)MMMMCLIX)CCLXV = 314159265
-
-((MLXX)MMMDCCXL)MDCCCXXIV = 1073741824
+* (V) = 5000
+* (V)CDLXXVIII = 5478
+* (V)M = 6000
+* (IX) = 9000
+* (X)M = 11000
+* (X)MM = 12000
+* (X)MMCCCXLV = 12345
+* (CCCX)MMMMCLIX = 314159
+* (DLXXV)MMMCCLXVII = 578267
+* (MMMCCXV)CDLXVIII = 3215468
+* (MMMMCCX)MMMMCDLXVIII = 4214468
+* (MMMMCCXV)CDLXVIII = 4215468
+* (MMMMCCXV)MMMCDLXVIII = 4218468
+* (MMMMCCXIX)CDLXVIII = 4219468
+* ((XV)MDCCLXXV)MMCCXVI = 16777216
+* ((CCCX)MMMMCLIX)CCLXV = 314159265
+* ((MLXX)MMMDCCXL)MDCCCXXIV = 1073741824
