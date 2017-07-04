@@ -4,8 +4,8 @@ Most everyone who programs using general purpose languages is familiar with regu
 
 For this challenge we'll use a subset of regular expression syntax:
 * character literals, like the letter A
-* * meaning zero or more of the previous thing (a character or an entity)
-* + meaning one or more of the previous thing
+*  \* meaning zero or more of the previous thing (a character or an entity)
+*  \+ meaning one or more of the previous thing
 * . meaning any single literal
 * [a-z] meaning a range of characters from a to z inclusive
 
