@@ -10,6 +10,7 @@ For this challenge we'll use a subset of regular expression syntax:
 * [a-z] meaning a range of characters from a to z inclusive
 
 To tackle this you'll probably want to consider using a finite state machine and traversing it using a random walk.
+---
 
 ## Example Input
 
@@ -18,6 +19,7 @@ You'll be given a list of patterns, one per line. Example:
 a+b
 abc*d
 ```
+---
 
 ## Example Output
 
@@ -27,6 +29,7 @@ aab
 abd
 ```
 Note that `abcccccd` would also match the second one, and `ab` would match the first one. There is no single solution, but there are wrong ones.
+---
 
 ## Challenge Input
 
@@ -35,6 +38,7 @@ Note that `abcccccd` would also match the second one, and `ab` would match the f
 ab[c-l]+jkm9*10+
 iqb[beoqob-q]872+0qbq*
 ```
+---
 
 ## Challenge Output
 
@@ -44,3 +48,4 @@ g~*t@C308*-sK.eSlM_#-EMg*9Jp_1W!7tB+SY@jRHD+-'QlWh=~k'}X$=08phGW1iS0+:G
 abhclikjijfiifhdjjgllkheggccfkdfdiccifjccekhcijdfejgldkfeejkecgdfhcihdhilcjigchdhdljdjkm9999910000
 iqbe87222222222222222222222222222222222222222220qbqqqqqqqqqqqqqqqqqqqqqqqqq
 ```
+---
