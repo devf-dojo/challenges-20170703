@@ -1,4 +1,4 @@
-# challenges-20170703
+# Challenges week 2
 Some short challenges for the week of Campus Party!
 
 You can find the details in each of the 3 other files in this repository.
